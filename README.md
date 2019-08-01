@@ -1,2 +1,2 @@
-# ML-1
+# ML1
 To find mean, median, mode
