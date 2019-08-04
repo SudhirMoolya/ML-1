@@ -19,3 +19,20 @@ print("Mean",mean)
 print("Median",median)
 print("Mode",mode)
 print("Standard Deviation",std)
+
+
+------------------------------------------------------------------------------------------------------
+
+
+OUTPUT:
+Enter the number of elements:5
+Enter element1:1
+Enter element2:5
+Enter element3:4
+Enter element4:4
+Enter element5:6
+Mean 4.0
+Median 4.0
+Mode 0    4
+dtype: int64
+Standard Deviation 1.8708286933869707  
