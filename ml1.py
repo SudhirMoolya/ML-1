@@ -14,10 +14,14 @@ mean=x.mean()
 median=x.median()
 mode=x.mode()
 std=x.std()
+lower_conf_interval = x.mean() - 1.96*x.std()
+upper_conf_interval = x.mean() + 1.96*x.std()
 
 print("Mean",mean)
 print("Median",median)
 print("Mode",mode)
 print("Standard Deviation",std)
+print("Lower_conf_interval",lower_conf_interval)
+print("Upper_conf_interval",upper_conf_interval)
 
  
